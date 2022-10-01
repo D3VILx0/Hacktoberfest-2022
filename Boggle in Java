@@ -1,4 +1,4 @@
-// Java program for Boggle game
+## // Java program for Boggle game
 public class Boggle {
 
 	// Alphabet size
